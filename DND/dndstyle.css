@@ -1,0 +1,93 @@
+body{
+
+    background-color: #e00000 !important;
+    text-align: center;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+    text-align: center;
+
+    scrollbar-color: transparent;
+}
+
+::-webkit-scrollbar {
+    width: 0%;
+}
+
+nav{
+    padding-top: 3.5%;
+    padding-bottom: 3.5%;
+    text-align: center;
+    font-weight: bold;
+    background-color: #af0000;
+    width: 100%;
+}
+
+article {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 4%;
+    padding-bottom: 4%;
+    padding-top: 4%;
+    background-color: #d08080;
+}
+
+footer {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    margin-top: 2%;
+
+    border-radius: 0px;
+    background-color: #d08080;
+}
+
+.banner{
+    font-size: 25px;
+    padding-top: 3.5%;
+    padding-bottom: 3.5%;
+    background-color: #a00a00;
+    width: 100%;
+}
+
+#title{
+    font-size: 30px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#red{
+    color: #b00000;
+    text-decoration: underline;
+}
+
+p{
+    margin-left: 80px;
+    margin-right: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4{
+    margin-left: 80px;
+    margin-right: 80px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h1{
+font-family: "Lucida Console", "Courier New", monospace;
+}
+
+a:link, a:visited{
+    padding: 15px 25px;
+    background-color: #ddaaaa;
+    color: #b00000;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active{
+    background-color: #eebbbb;
+}

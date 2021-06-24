@@ -29,11 +29,11 @@
 	footer {
 		padding-top: 15px;
 		padding-bottom: 15px;
-		margin-left: 80px;
-		margin-right: 80px;
-		margin-bottom: 25px;
+		margin-left: 0px;
+		margin-right: 0px;
+		margin-bottom: 0px;
 		
-		border-radius: 25px;
+		border-radius: 0px;
 		background-color: #d08080;
 	}
 	
