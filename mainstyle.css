@@ -17,7 +17,7 @@ body
 nav
 {
     /*COLOURS6891A6*/
-    background-color: #3B1E08;
+    background-color: #291506;
     /*SIZE*/
     width: 100%;
 
@@ -33,8 +33,8 @@ nav
 .navitem
 {
     /*COLOURS*/
-    background-color: #543925;
-    color: #3B1E08;
+    background-color: #472409;
+    color: #211103;
     /*SIZE*/
 
     /*TEXT*/
@@ -53,14 +53,14 @@ nav
 
 .navitem:hover, .navitem:hover
 {
-    background-color: #381D08;
-    color: #543925;
+    background-color: #241203;
+    color: #472409;
 }
 
 .banner
 {
     /*COLOUR*/
-    background-color: #D9D9D9;
+    background-color: #C2C2C2;
 
     /*SIZE*/
     width: 100%;
@@ -82,6 +82,7 @@ footer
 
     position: relative;
     bottom: 0;
+    margin-top: 5%;
     margin-bottom: 0%;
     padding-top: 5%;
     padding-bottom: 5%;
