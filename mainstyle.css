@@ -33,7 +33,7 @@ nav
 .navitem
 {
     /*COLOURS*/
-    background-color: #472409;
+    background-color: #52310D;
     color: #211103;
     /*SIZE*/
 
@@ -44,8 +44,8 @@ nav
     text-decoration: none;
     padding-left: 2%;
     padding-right: 2%;
-    padding-top: 1%;
-    padding-bottom: 1%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
 
     position: relative;
     display: inline-block;
@@ -77,7 +77,7 @@ footer
     background-color: #0e0e0e;
     color: #fefefe;
 
-    font-size: 15px;
+    font-size: 10px;
     font-family: "Lucida Console", "Courier New", monospace;
 
     position: relative;
